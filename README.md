@@ -1,64 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Piumal%20Kulasekara&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20IFS%20FSM%20Consultant%20%7C%20Enterprise%20Integrations&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Piumal%20Kulasekara&fontAlign=50&fontAlignY=40&desc=Fullstack%20Engineer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Product%20Development&descAlign=50&descAlignY=60" />
 
 # Hi, I'm Piumal 👋
 
-Software Engineer • IFS FSM Consultant / Developer • Enterprise Integrations
+Fullstack Engineer • Cloud • DevOps • Product Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piumalkulasekara/)
-[![GitHub](https://img.shields.io/badge/GitHub-piumalkulasekara-black?style=for-the-badge&logo=github)](https://github.com/piumalkulasekara)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/piumalkulas)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/piumalkulasekara)
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/piumalkulas)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I build practical systems around:
+I’m a **Fullstack Engineer** based in **Stockholm, Sweden**, with experience building and maintaining modern web applications, backend systems, cloud-based solutions, and delivery pipelines.
 
-- IFS FSM and enterprise service workflows
-- integrations and backend platforms
-- workflow-heavy business applications
-- modern web products and multi-tenant SaaS systems
-
-Based in **Stockholm, Sweden**.
+I enjoy working across the stack from designing user-facing applications to building APIs, handling deployments, and improving development workflows.
 
 ---
 
-## Tech Stack
+### What I Work With
+
+- Fullstack web application development
+- Backend systems and API design
+- Cloud platforms and deployment workflows
+- CI/CD pipeline handling and automation
+- Scalable product and platform engineering
+- Integration-heavy business applications
+
+---
+
+### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/IFS_FSM-Expert-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IFS_Cloud-Functional%20%2B%20Technical-7B1FA2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OData-0F62FE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business_Central-00B7C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-4CAF50?style=for-the-badge" />
 </p>
 
 ---
 
-## Focus Areas
+### Focus
 
-- IFS FSM consulting and development
-- enterprise integrations
-- backend and platform architecture
-- workflow-driven SaaS products
-- logistics and tracking solutions
+- Fullstack engineering
+- Cloud-native application delivery
+- Azure and AWS environments
+- CI/CD pipelines and release workflows
+- Backend architecture and integrations
+- Product-focused software development
 
 ---
 
-## Featured Links
+### Links
 
 - GitHub: https://github.com/piumalkulasekara
 - LinkedIn: https://www.linkedin.com/in/piumalkulasekara/
